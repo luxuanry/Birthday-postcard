@@ -69,7 +69,6 @@ const App: React.FC = () => {
                 isBlown={isBlown} 
                 isBlowing={isBlowing} 
                 wishes={wishes} 
-                gestureFactor={0}
               />
             </Float>
           </group>
